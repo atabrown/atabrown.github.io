@@ -1,4 +1,4 @@
-# Atavia Brown
+# Cybersecurity Analyst
 
 ### Certification
 Google Cybersecurity Professional Certification
